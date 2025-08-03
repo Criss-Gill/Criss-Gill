@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/twitter/follow/yourhandle?color=0ff00&label=%40yourhandle&logo=twitter&logoColor=00ff00&style=for-the-badge"></a>
+  <a href="https://twitter.com/Cr1ss_27"><img src="https://img.shields.io/twitter/follow/Cr1ss_27?color=0ff00&label=%40Cr1ss_27&logo=twitter&logoColor=00ff00&style=for-the-badge"></a>
   <a href="https://github.com/sponsors/Criss-Gill"><img src="https://img.shields.io/github/sponsors/Criss-Gill?color=00ff00&logoColor=00ff00&logo=github&style=for-the-badge"></a>
   <a href="https://github.com/Criss-Gill"><img src="https://img.shields.io/github/followers/Criss-Gill?color=%2300ff00&logoColor=00ff00&logo=github&style=for-the-badge"></a>
 </p>
