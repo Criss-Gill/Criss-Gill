@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://1.bp.blogspot.com/-lKJKpqe85y4/XVVYr9-WHRI/AAAAAAAAB9M/-h245-Fg-nYbZqvO0RV0tlfhxQ8sqvEawCLcBGAs/s1600/Sampler.gif" alt="Banner" />
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdJju3oU1CPk66y0h3jrjm7FIw24t7ZPTs-K0d2_TJin_S8aS_B4-XHKUoC2cS-7cU4uRHnSs0Avgs6d-FJAusoJvWkFEcQPQfKDkpUyszoMRv9bjmGRq0_rDsgsrF6clLZIF_eg5ABZ3z4VqySOzqZwTRNLNO5IwIsofE-LqcU_sLYsOdda6bqZM1BPA/s1600/terminal.gif" alt="Banner" />
 </p>
 
 <p align="center">
